@@ -1,1 +1,17 @@
 /* test new file */
+body {
+font-family: 'Source Sans Pro', sans-serif;
+min-height: 100vh;
+}
+* {
+    box-sizing: border-box;
+  }
+  #header {
+  border: 1px solid red;
+  text-align: center; /*по центру */ 
+  }
+  #footer {
+    border: 1px solid blueviolet;
+    text-align: center; /*по центру */ 
+    margin: 0; padding: 0;
+    }
