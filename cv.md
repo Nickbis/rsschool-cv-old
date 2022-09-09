@@ -1,4 +1,4 @@
-# **Mikalai Tserakhau**
+# _**Mikalai Tserakhau**_
 
 ## Contacts
 * Phone: _+375 296 220 626_
@@ -8,9 +8,20 @@
 * Location: Belarus, Mogilev
 
 ## About
-_Overcoming difficulties, training and development. I am interested in the profession of Front-end developer._
+# _Overcoming difficulties, training and development. I am interested in the profession of Front-end developer._
+
+## Skils
+
+
+## Code example: "Handshake problem"
+```function getParticipants(handshakes){
+  if (handshakes == 0) { return 0 };
+  return Math.ceil(0.5 + Math.sqrt(2 * handshakes - 0.25));
+} 
+```
+
 ## Education
-* BELARUSIAN-RUSSIAN UNIVERSITY
+* Belarusian-Russian University
    - AUTOMATED ELECTRIC DRIVE - electrical engineer
 * Belarusian State University
    - MBA 
@@ -23,6 +34,6 @@ _Overcoming difficulties, training and development. I am interested in the profe
 
 ## Language:
 * Native Russian
-* English A2
-* French А2 
+* English A1 (I keep learning)
+* French А1 
 
