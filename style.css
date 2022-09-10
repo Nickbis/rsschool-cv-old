@@ -1,0 +1,36 @@
+/* test new file */
+body {
+font-family: 'Source Sans Pro', sans-serif;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+* {
+    box-sizing: border-box;
+  }
+  #header {
+  text-align: center; /*по центру */ 
+  }
+  #main {
+    border: 1px solid blue;
+    text-align: center; /*по центру */ 
+    }
+    .column {
+      display: flex;
+      flex-direction: column;
+    }
+    .container {
+      width: 1000;
+      margin: 0 auto;
+      display: flex;
+    }
+    .wrapper {
+      margin: 2 auto;
+      display: flex;
+    }
+
+  #footer {
+        text-align: center; /*по центру */ 
+    margin: 0; padding: 0;
+    }
