@@ -1,23 +1,24 @@
 # _**Mikalai Tserakhau**_
 ---------------------------
 ## Contacts
+* Location: Belarus, Mogilev
 * Phone: _+375 296 220 626_
 * Git: *Nickbis*
 * Discord: Nickbis#1920
 * E-mail: nickbis3@gmail.com
-* Location: Belarus, Mogilev
------------
+
+----------------------------
 ## About
 ### _I am learning a new profession. It is interesting._
 ### _Overcoming difficulties, training and development. I am interested in the profession of Front-end developer._
 ### _Successful experience as a system administrator, office equipment repair engineer, active sales, as well as managing a service center and sales department._
-_
------------
+
+------------
 ## Skils
-* html
-* css
-* js
-* saas
+* HTML5, CSS3
+* JavaScript
+* GIT, SAAS
+* VS Code
 
 -----------
 ## Code example: "Handshake problem"
@@ -43,4 +44,4 @@ _
 * Native Russian
 * English A1 (I keep learning)
 * French А1 
-
+------------
